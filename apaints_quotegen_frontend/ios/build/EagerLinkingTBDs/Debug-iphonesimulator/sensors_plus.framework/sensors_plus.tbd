@@ -1,0 +1,14 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/sensors_plus.framework/sensors_plus'
+exports:
+  - targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+    symbols:         [ _GRAVITY, __eventChannels, __initMotionManager, __isCleanUp, 
+                       __motionManager, __streamHandlers, _sensors_plusVersionNumber, 
+                       _sensors_plusVersionString ]
+    objc-classes:    [ FLTAccelerometerStreamHandlerPlus, FLTGyroscopeStreamHandlerPlus, 
+                       FLTMagnetometerStreamHandlerPlus, FLTSensorsPlusPlugin, FLTUserAccelStreamHandlerPlus, 
+                       PodsDummy_sensors_plus ]
+...

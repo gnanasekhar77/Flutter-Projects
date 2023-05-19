@@ -1,0 +1,22 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-ios ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/flutter_secure_storage.framework/flutter_secure_storage'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-ios ]
+    symbols:         [ '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginC0afG7Manager33_B74E66EA249BA36A2DD8E4B228F6890BLLAA0efG0Cvpfi', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginC6handle_6resultySo0E10MethodCallC_yypSgctF', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginC6handle_6resultySo0E10MethodCallC_yypSgctFTq', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginC8register4withySo0eH9Registrar_p_tFZ', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCACycfC', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCACycfc', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCMa', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCMn', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCN', 
+                       '_$s22flutter_secure_storage31SwiftFlutterSecureStoragePluginCfD', 
+                       _flutter_secure_storageVersionNumber, _flutter_secure_storageVersionString ]
+    objc-classes:    [ FlutterSecureStoragePlugin, PodsDummy_flutter_secure_storage, 
+                       _TtC22flutter_secure_storage31SwiftFlutterSecureStoragePlugin ]
+...

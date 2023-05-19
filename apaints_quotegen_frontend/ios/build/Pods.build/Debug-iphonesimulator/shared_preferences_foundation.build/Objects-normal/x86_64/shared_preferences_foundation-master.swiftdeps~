@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "630a7b7ed8bb679bb0153fc9862606dcf02f4eeab360510b6a669227a7a236ab"
+build_start_time: [1681808652, 103463000]
+build_end_time: [1681808652, 152505000]
+inputs:
+  "/Users/sravankumar/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.2.1/ios/Classes/SharedPreferencesPlugin.swift": !private [1681285783, 176606415]
+  "/Users/sravankumar/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.2.1/ios/Classes/messages.g.swift": !private [1681285783, 176215891]

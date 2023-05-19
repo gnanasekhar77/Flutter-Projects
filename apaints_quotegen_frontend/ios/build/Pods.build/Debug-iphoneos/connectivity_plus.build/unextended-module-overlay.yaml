@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/build/Debug-iphoneos/connectivity_plus/connectivity_plus.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/build/Pods.build/Debug-iphoneos/connectivity_plus.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/build/Debug-iphoneos/connectivity_plus/connectivity_plus.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "connectivity_plus-Swift.h",
+      'external-contents': "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/build/Pods.build/Debug-iphoneos/connectivity_plus.build/unextended-interface-header.h",
+    }]
+    }]
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="vuesax_linear_timer" data-name="vuesax/linear/timer" transform="translate(-236 -188)">
+    <g id="timer" transform="translate(236 188)">
+      <path id="Vector" d="M6.34-.75a7.183,7.183,0,0,1,7.09,7.258,7.183,7.183,0,0,1-7.09,7.258A7.183,7.183,0,0,1-.75,6.508,7.183,7.183,0,0,1,6.34-.75Zm0,13.369a6.049,6.049,0,0,0,5.971-6.112A6.049,6.049,0,0,0,6.34.4,6.049,6.049,0,0,0,.369,6.508,6.049,6.049,0,0,0,6.34,12.619Z" transform="translate(2.66 3.28)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M-.177,4.216A.573.573,0,0,1-.75,3.643V-.177A.573.573,0,0,1-.177-.75.573.573,0,0,1,.4-.177v3.82A.573.573,0,0,1-.177,4.216Z" transform="translate(9.177 6.15)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M4.407.4H-.177A.573.573,0,0,1-.75-.177.573.573,0,0,1-.177-.75H4.407a.573.573,0,0,1,.573.573A.573.573,0,0,1,4.407.4Z" transform="translate(6.885 1.705)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H18V18H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

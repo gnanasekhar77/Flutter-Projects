@@ -1,0 +1,51 @@
+import 'package:APaints_QGen/src/data/models/categories_model.dart';
+import 'package:APaints_QGen/src/data/models/sku_request_model.dart';
+import 'package:APaints_QGen/src/data/models/sku_response.dart';
+
+class Journey {
+  static String? area;
+  static int selectedIndex = 0;
+  static Map<String, String>? qtyMap;
+  static String? skuCode;
+  static String? quantity;
+  static int? skuIndex;
+  static List<dynamic> att = [];
+  static String? username;
+  static String? loginType;
+  static bool? isExist;
+  static List<SKUData>? skuDataList = [];
+  static int? totalQuantity;
+  static int? totalPrice;
+  static SkuRequestBody? skuRequestBody;
+  static String? token;
+  static int? totalAmountWeb = 0;
+  static int? totalDiscountAmount = 0;
+  static String? totalDisc = '';
+  static int? totalGst = 0;
+  static int? totalAmount = 0;
+  static int? totalAmountBeforeGST = 0;
+  static List<SKUData>? quoteResponseList = [];
+  static int totalAmountAfterGST = 0;
+  static String? quoteName;
+  static String? quoteID;
+  static String? projectName;
+  static String? contactPerson;
+  static String? mobileNumber;
+  static String? siteAddress;
+  static String? noOfBathrooms;
+  static String? category;
+  static String? range;
+  static int? cartCount;
+  static List<SKUData> skuResponseLists = [];
+  static List<Area>? areaInfo;
+  static List<Area>? areaDetails = [];
+  static String? valueqty;
+  static bool? fromFlip;
+  static List<CategoryData>? catagoriesData = [];
+  static String? projectID;
+  static int? projectIndex;
+  static String? email;
+
+  static String? brand;
+  // static int? totalQuantity;
+}

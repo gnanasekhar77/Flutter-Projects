@@ -1,0 +1,23 @@
+class FRJourney {
+  static String? userCode;
+  static String? userType;
+  static String? issueToCode;
+  static String? dispatchMode;
+  static String? storeLocationCode;
+  static String? requestNumber;
+  static dynamic focItemCount;
+  static double? frWalletBalance;
+  static double? taxableAmount;
+  static double? tax;
+  static double? totalAmount;
+  static double? asmAmount;
+  static double? totalDue;
+  static String? appVersion;
+  static String? walletStatus;
+  static String? userPhone;
+  static int? orderStatus;
+  static int? requestStatus;
+  static String? requestAndOrderStatus;
+  static int? deliveryMode;
+  static String? setOtpToken;
+}

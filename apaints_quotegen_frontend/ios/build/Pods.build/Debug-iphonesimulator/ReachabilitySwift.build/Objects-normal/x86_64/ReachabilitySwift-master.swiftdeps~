@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f348b243aa3a25afcf250a00229f7a280961d4057b54cb352bdf5c1912792960"
+build_start_time: [1681808654, 407339000]
+build_end_time: [1681808654, 440704000]
+inputs:
+  ? "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/Pods/ReachabilitySwift/Sources/Reachability.swift"
+  : !private [1681379779, 966367906]

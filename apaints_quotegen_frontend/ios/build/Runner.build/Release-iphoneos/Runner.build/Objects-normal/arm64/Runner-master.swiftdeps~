@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "92e2d6fac4727299d0134033300e56d858dedb3b9c10f6728a343e3067d1752e"
+build_start_time: [1683121339, 714428000]
+build_end_time: [1683121339, 770675000]
+inputs:
+  "/Users/sravankumar/Documents/AsianPaints/AsianPaints_QuoteGen/apaints_quotegen_frontend/ios/Runner/AppDelegate.swift": !dirty [1673357195, 915734664]

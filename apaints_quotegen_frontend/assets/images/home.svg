@@ -1,0 +1,10 @@
+<svg id="Component_17_1" data-name="Component 17 – 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Rectangle_3176" data-name="Rectangle 3176" fill="#fff" stroke="#fff" stroke-width="1">
+    <rect width="30" height="30" rx="6" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="29" rx="5.5" fill="none"/>
+  </g>
+  <g id="Icon_feather-home" data-name="Icon feather-home" transform="translate(2.4 3)">
+    <path id="Path_23933" data-name="Path 23933" d="M4.5,9.3,12.6,3l8.1,6.3v9.9A1.8,1.8,0,0,1,18.9,21H6.3a1.8,1.8,0,0,1-1.8-1.8Z" fill="none" stroke="#0b3855" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_23934" data-name="Path 23934" d="M13.5,27.357V18h5.614v9.357" transform="translate(-3.707 -6.357)" fill="none" stroke="#0b3855" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/flutter_pdfview.framework/flutter_pdfview'
+exports:
+  - targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+    symbols:         [ _flutter_pdfviewVersionNumber, _flutter_pdfviewVersionString ]
+    objc-classes:    [ FLTPDFView, FLTPDFViewController, FLTPDFViewFactory, FLTPDFViewFlutterPlugin, 
+                       PodsDummy_flutter_pdfview ]
+...

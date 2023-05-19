@@ -1,0 +1,74 @@
+Target dependency graph (20 targets)
+FMDB in Pods, no dependencies
+Flutter in Pods, no dependencies
+ReachabilitySwift in Pods, no dependencies
+Toast in Pods, no dependencies
+connectivity_plus in Pods, depends on:
+Flutter in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+flutter_local_notifications in Pods, depends on:
+Flutter in Pods (explicit)
+flutter_pdfview in Pods, depends on:
+Flutter in Pods (explicit)
+flutter_secure_storage in Pods, depends on:
+Flutter in Pods (explicit)
+fluttertoast in Pods, depends on:
+Flutter in Pods (explicit)
+Toast in Pods (explicit)
+open_filex in Pods, depends on:
+Flutter in Pods (explicit)
+package_info_plus in Pods, depends on:
+Flutter in Pods (explicit)
+path_provider_foundation in Pods, depends on:
+Flutter in Pods (explicit)
+permission_handler_apple in Pods, depends on:
+Flutter in Pods (explicit)
+sensors_plus in Pods, depends on:
+Flutter in Pods (explicit)
+share_plus in Pods, depends on:
+Flutter in Pods (explicit)
+shared_preferences_foundation in Pods, depends on:
+Flutter in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+url_launcher_ios in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+FMDB in Pods (explicit)
+Flutter in Pods (explicit)
+ReachabilitySwift in Pods (explicit)
+Toast in Pods (explicit)
+connectivity_plus in Pods (explicit)
+flutter_local_notifications in Pods (explicit)
+flutter_pdfview in Pods (explicit)
+flutter_secure_storage in Pods (explicit)
+fluttertoast in Pods (explicit)
+open_filex in Pods (explicit)
+package_info_plus in Pods (explicit)
+path_provider_foundation in Pods (explicit)
+permission_handler_apple in Pods (explicit)
+sensors_plus in Pods (explicit)
+share_plus in Pods (explicit)
+shared_preferences_foundation in Pods (explicit)
+sqflite in Pods (explicit)
+url_launcher_ios in Pods (explicit)
+Runner in Runner, depends on:
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+ReachabilitySwift in Pods (implicit dependency via options '-framework Reachability' in build setting 'OTHER_LDFLAGS')
+Toast in Pods (implicit dependency via options '-framework Toast' in build setting 'OTHER_LDFLAGS')
+connectivity_plus in Pods (implicit dependency via options '-framework connectivity_plus' in build setting 'OTHER_LDFLAGS')
+flutter_local_notifications in Pods (implicit dependency via options '-framework flutter_local_notifications' in build setting 'OTHER_LDFLAGS')
+flutter_pdfview in Pods (implicit dependency via options '-framework flutter_pdfview' in build setting 'OTHER_LDFLAGS')
+flutter_secure_storage in Pods (implicit dependency via options '-framework flutter_secure_storage' in build setting 'OTHER_LDFLAGS')
+fluttertoast in Pods (implicit dependency via options '-framework fluttertoast' in build setting 'OTHER_LDFLAGS')
+open_filex in Pods (implicit dependency via options '-framework open_filex' in build setting 'OTHER_LDFLAGS')
+package_info_plus in Pods (implicit dependency via options '-framework package_info_plus' in build setting 'OTHER_LDFLAGS')
+path_provider_foundation in Pods (implicit dependency via options '-framework path_provider_foundation' in build setting 'OTHER_LDFLAGS')
+permission_handler_apple in Pods (implicit dependency via options '-framework permission_handler_apple' in build setting 'OTHER_LDFLAGS')
+sensors_plus in Pods (implicit dependency via options '-framework sensors_plus' in build setting 'OTHER_LDFLAGS')
+share_plus in Pods (implicit dependency via options '-framework share_plus' in build setting 'OTHER_LDFLAGS')
+shared_preferences_foundation in Pods (implicit dependency via options '-framework shared_preferences_foundation' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_ios in Pods (implicit dependency via options '-framework url_launcher_ios' in build setting 'OTHER_LDFLAGS')

@@ -1,0 +1,10 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/open_filex.framework/open_filex'
+exports:
+  - targets:         [ x86_64-ios-simulator, arm64-ios-simulator ]
+    symbols:         [ _open_filexVersionNumber, _open_filexVersionString ]
+    objc-classes:    [ OpenFilePlugin, PodsDummy_open_filex ]
+...

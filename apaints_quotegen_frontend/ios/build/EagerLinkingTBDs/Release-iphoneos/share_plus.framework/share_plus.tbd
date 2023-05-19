@@ -1,0 +1,11 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-ios ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/share_plus.framework/share_plus'
+exports:
+  - targets:         [ arm64-ios ]
+    symbols:         [ _share_plusVersionNumber, _share_plusVersionString ]
+    objc-classes:    [ FLTSharePlusPlugin, PodsDummy_share_plus, SharePlusData, UIActivityViewSuccessCompanion, 
+                       UIActivityViewSuccessController ]
+...
